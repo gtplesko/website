@@ -53,5 +53,10 @@ contributions:
       url: "https://github.com/Ari24-cb24"
     video_id: AU5MUIGZyF4
     source: "https://github.com/Ari24-cb24/Python-Speedcoding/tree/master/Worley%20Noise"
+  - title: "Worley Trees (Quad trees + worley)"
+    author:
+      name: "gtplesko"
+      url: "https://github.com/gtplesko/Worley-Trees"
+    source: "https://github.com/gtplesko/Worley-Trees/tree/master"
 ---
 It's the fourth episode of Coding in the Cabana! Quarantined at home I explore the beauty of Worley noise.
